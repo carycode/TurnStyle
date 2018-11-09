@@ -32,3 +32,29 @@ https://www.barnesandnoble.com/w/deep-learning-and-convolutional-neural-networks
 Practical Machine Learning and Image Processing: For Facial Recognition, Object Detection, and Pattern Recognition Using Python
 https://www.barnesandnoble.com/w/practical-machine-learning-and-image-processing-himanshu-singh/1129472276?ean=9781484241486
 
+
+What is the fashion dataset that someone mentioned at the Tulsa Data Science AI class?
+Was it one of the following?:
+
+https://www.kaggle.com/tags/clothing
+
+"StreetStyle- Exploring world-wide clothing styles from millions of photos"
+https://arxiv.org/pdf/1706.01869.pdf
+
+"ModaNet- A Large-scale Street Fashion Dataset with Polygon Annotations"
+https://arxiv.org/pdf/1807.01394.pdf
+
+"fashion data on data.world - 5 datasets available"
+https://data.world/datasets/fashion
+
+DeepFashion
+http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
+
+"Fashion-MNIST- a Novel Image Dataset for Benchmarking Machine Learning
+Algorithms"
+https://www.researchgate.net/publication/319312259_Fashion-MNIST_a_Novel_Image_Dataset_for_Benchmarking_Machine_Learning_Algorithms
+
+
+
+
+
